@@ -1,0 +1,5 @@
+*.txt
+*.log
+prefixsum_seq
+prefixsum_omp
+prefixsum_mpi
